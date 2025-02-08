@@ -1,0 +1,56 @@
+.backimg{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 70vh;
+    margin-top: 15px ;
+    border-radius: 0px;
+    
+}
+.container{
+    cursor: pointer;
+}
+
+.alert{
+    width:350px;
+    margin-left: 500px;
+    margin-top: 25px;
+    
+}
+
+/* change navbar */
+.navbar-brand{
+    font-family: 'ubuntu', sans-serif;
+    font-size:2em;
+    font-weight:bold;
+    
+}
+
+/* change links */
+.nav-item a{
+    color:#fff;
+}
+
+.nv-item a:hover{
+    color:#f0AAB1;
+}
+
+.team {
+   text-shadow: 4px 0px 1px red;
+   
+}
+
+.team1 {
+    text-shadow: 4px 0px 5px rgb(40, 19, 195);
+    
+ }
+
+ .alert1{
+    margin-left: 50px;
+    width:450px;
+ }
+
+ .teamc{
+    text-shadow: 4px 0px 1px yellow
+ }
+
